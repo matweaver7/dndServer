@@ -1,0 +1,5 @@
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository.Migrations\bin\Debug\netstandard2.0\dndServer.Repository.Migrations.deps.json
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository.Migrations\bin\Debug\netstandard2.0\dndServer.Repository.Migrations.dll
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository.Migrations\obj\Debug\netstandard2.0\dndServer.Repository.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository.Migrations\obj\Debug\netstandard2.0\dndServer.Repository.Migrations.AssemblyInfoInputs.cache
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository.Migrations\obj\Debug\netstandard2.0\dndServer.Repository.Migrations.AssemblyInfo.cs

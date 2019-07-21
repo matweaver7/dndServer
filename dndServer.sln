@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dndServer", "dndServer\dndServer.csproj", "{BE543FBE-3EDF-46E4-A93A-B7CC0AB32473}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dndServer.Contracts", "dndServer.Contracts\dndServer.Contracts.csproj", "{748AF707-205D-432B-B7DC-441D62EBCCCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dndServer.Repository", "dndServer.Repository\dndServer.Repository.csproj", "{9C7D19AC-B727-491C-B99C-99EBD9AFB341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{44873B0E-ABFC-4439-AFCA-6BA887C73324}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dndServer.Repository.Migrations", "dndServer.Repository.Migrations\dndServer.Repository.Migrations.csproj", "{33273475-08A8-43E5-9CA0-1BC7D4610832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE543FBE-3EDF-46E4-A93A-B7CC0AB32473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE543FBE-3EDF-46E4-A93A-B7CC0AB32473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE543FBE-3EDF-46E4-A93A-B7CC0AB32473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE543FBE-3EDF-46E4-A93A-B7CC0AB32473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748AF707-205D-432B-B7DC-441D62EBCCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748AF707-205D-432B-B7DC-441D62EBCCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748AF707-205D-432B-B7DC-441D62EBCCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748AF707-205D-432B-B7DC-441D62EBCCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7D19AC-B727-491C-B99C-99EBD9AFB341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7D19AC-B727-491C-B99C-99EBD9AFB341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7D19AC-B727-491C-B99C-99EBD9AFB341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7D19AC-B727-491C-B99C-99EBD9AFB341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33273475-08A8-43E5-9CA0-1BC7D4610832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33273475-08A8-43E5-9CA0-1BC7D4610832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33273475-08A8-43E5-9CA0-1BC7D4610832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33273475-08A8-43E5-9CA0-1BC7D4610832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B549E1EF-2BBE-4C7E-8EF3-FBAA9D72C954}
+	EndGlobalSection
+EndGlobal

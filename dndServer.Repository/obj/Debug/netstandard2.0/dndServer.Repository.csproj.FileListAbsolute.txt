@@ -1,0 +1,6 @@
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository\bin\Debug\netstandard2.0\dndServer.Repository.deps.json
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository\bin\Debug\netstandard2.0\dndServer.Repository.dll
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository\obj\Debug\netstandard2.0\dndServer.Repository.csprojAssemblyReference.cache
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository\obj\Debug\netstandard2.0\dndServer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository\obj\Debug\netstandard2.0\dndServer.Repository.AssemblyInfoInputs.cache
+C:\Users\matwe\source\repos\dndServer\dndServer.Repository\obj\Debug\netstandard2.0\dndServer.Repository.AssemblyInfo.cs
