@@ -12,6 +12,8 @@ namespace dndServer.Contracts
         public IList<ISpells> spells { get; set; }
         public IList<IEquipment> equipment { get; set; }
         public int level { get; set; }
+        public int numberOfSpellSlots { get; set; }
+        public int numberOfCantrips { get; set; }
         public int currentHitPoints { get; set; }
         public int maxHitPoints { get; set; }
         public int armourClass { get; set; }

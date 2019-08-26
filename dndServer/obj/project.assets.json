@@ -704,23 +704,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matwe\\.nuget\\packages\\": {},
+    "C:\\Users\\mweaver\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matwe\\source\\repos\\dndServer\\dndServer\\dndServer.csproj",
+      "projectUniqueName": "C:\\Users\\mweaver\\personal\\dndServer\\dndServer\\dndServer.csproj",
       "projectName": "dndServer",
-      "projectPath": "C:\\Users\\matwe\\source\\repos\\dndServer\\dndServer\\dndServer.csproj",
-      "packagesPath": "C:\\Users\\matwe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matwe\\source\\repos\\dndServer\\dndServer\\obj\\",
+      "projectPath": "C:\\Users\\mweaver\\personal\\dndServer\\dndServer\\dndServer.csproj",
+      "packagesPath": "C:\\Users\\mweaver\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mweaver\\personal\\dndServer\\dndServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\matwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mweaver\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -728,13 +728,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://ci-master/Nuget/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\matwe\\source\\repos\\dndServer\\dndServer.Contracts\\dndServer.Contracts.csproj": {
-              "projectPath": "C:\\Users\\matwe\\source\\repos\\dndServer\\dndServer.Contracts\\dndServer.Contracts.csproj"
+            "C:\\Users\\mweaver\\personal\\dndServer\\dndServer.Contracts\\dndServer.Contracts.csproj": {
+              "projectPath": "C:\\Users\\mweaver\\personal\\dndServer\\dndServer.Contracts\\dndServer.Contracts.csproj"
             }
           }
         }
