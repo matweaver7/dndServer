@@ -28,7 +28,7 @@ namespace dndServer.Repository.Migrations
         }
         public override void Down()
         {
-            Delete.Table("SpellComponentsInstance");
+            Delete.Table("SpellComponents");
         }
     }
 
