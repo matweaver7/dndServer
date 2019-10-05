@@ -10,17 +10,8 @@ namespace dndServer.Repository.Migrations
         {
             Create.Table("Spells")
                 .WithColumn("Id").AsInt64().PrimaryKey().Identity()
-                .WithColumn("Name").AsString()
-                .WithColumn("Range").AsInt64()
-                .WithColumn("Material").AsString()
-                .WithColumn("Level").AsInt32()
-                .WithColumn("School").AsString()
-                .WithColumn("Position").AsInt16()
-                .WithColumn("Duration").AsString()
-                .WithColumn("Concentration").AsBoolean()
-                .WithColumn("CastingTime").AsString()
-                .WithColumn("Ritual").AsBoolean()
-                .WithColumn("Components").AsString();
+                .WithColumn
+                .WithColumn("Name").AsString();
 
         }
         public override void Down()
